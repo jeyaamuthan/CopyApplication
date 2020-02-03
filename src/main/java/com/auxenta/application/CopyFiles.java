@@ -1,17 +1,18 @@
 package com.auxenta.application;
 
-import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class User {
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
 
+public class CopyFiles {
 	static boolean status = true;
 
 	public static void inputUser() throws IOException {
 
 		while (status) {
-			User.input();
+			CopyFiles.input();
 		}
 
 		System.out.println("Process Completed!!!");
@@ -19,41 +20,33 @@ public class User {
 	}
 
 	public static void input() throws IOException {
-		Validation valid = new Validation();
+		final Logger logger = LogManager.getLogger(CopyFiles.class);
 		Scanner input = new Scanner(System.in);
-
+		Validation valid = new Validation();
+		logger.info("Enter the Source Flie Path : ");
 		System.out.println("Enter the Source File Path : ");
-		String srcFilePath = input.nextLine();
-		if (valid.isPathEmpty(srcFilePath)) {
-
+		String from = input.nextLine();
+		if (valid.isPathEmpty(from)) {
 			System.out.println("Source File Path is not entered.");
 		} else {
 
 			System.out.println("Enter the Target File Path : ");
-			String tarFilePath = input.nextLine();
-
-			if (valid.isPathEmpty(tarFilePath)) {
+			String to = input.nextLine();
+			if (to.isEmpty()) {
 				System.out.println("Target File Path is not entered.");
 			} else {
 
-				File sourceFolder = new File(srcFilePath);
-
-				File destinationFolder = new File(tarFilePath);
-
-				//DirectoryCopy.copyFolder(sourceFolder, destinationFolder);
-				Test.copyFiles(sourceFolder, destinationFolder);
+				CheckPathType.copyFile(from, to);
 
 				System.out.println("Do you want to copy another file(y/n) : ");
 
-				String setStatus = input.nextLine();
+				String setStatus = input.next();
 
 				if (setStatus.equalsIgnoreCase("n")) {
 
-					User.status = false;
+					CopyFiles.status = false;
 				}
 			}
-
 		}
-
 	}
 }
