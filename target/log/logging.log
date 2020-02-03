@@ -1,0 +1,133 @@
+2020-02-03 14:47:40 INFO  UtilFile:28 - Enter the Source Flie Path : 
+2020-02-03 14:48:47 INFO  UtilFile:28 - Enter the Source Flie Path : 
+2020-02-03 14:50:10 INFO  Utils:22 - Directory Succussfully Copied..!!!!
+2020-02-03 14:50:10 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 14:50:10 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 14:50:10 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 14:50:10 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 14:50:10 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 14:50:10 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 14:50:10 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:01:24 INFO  Utils:22 - Directory Succussfully Copied..!!!!
+2020-02-03 15:01:24 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:01:24 INFO  Utils:22 - Directory Succussfully Copied..!!!!
+2020-02-03 15:01:24 INFO  Utils:22 - Directory Succussfully Copied..!!!!
+2020-02-03 15:01:24 INFO  Utils:22 - Directory Succussfully Copied..!!!!
+2020-02-03 15:01:24 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:01:24 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:01:24 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:05:30 INFO  Utils:22 - Directory Succussfully Copied..!!!!
+2020-02-03 15:05:30 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:05:30 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:05:30 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:05:30 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:05:30 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:05:30 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:05:30 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:17:11 INFO  Utils:22 - Directory Succussfully Copied..!!!!
+2020-02-03 15:17:11 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:17:11 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:17:11 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:17:11 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:17:11 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:17:11 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:17:11 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:38:52 INFO  Utils:22 - Directory Succussfully Copied..!!!!
+2020-02-03 15:38:52 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:38:52 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:38:52 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:38:52 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:38:52 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:38:52 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:38:52 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:44:12 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:44:59 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:59:00 INFO  Utils:22 - Directory Succussfully Copied..!!!!
+2020-02-03 15:59:00 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:59:00 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:59:00 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:59:00 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:59:00 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:59:00 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:59:25 INFO  Utils:22 - Directory Succussfully Copied..!!!!
+2020-02-03 15:59:25 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:59:25 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:59:25 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:59:25 INFO  Utils:27 - File Succussfully Copied..!!!!
+2020-02-03 15:59:25 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:59:25 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:59:25 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:59:36 INFO  UtilFile:28 - Enter the Source Flie Path : 
+2020-02-03 15:59:37 ERROR UtilFile:32 - Source File Path is not entered.
+2020-02-03 15:59:37 INFO  UtilFile:34 - Enter the Target File Path : 
+2020-02-03 15:59:44 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 15:59:44 INFO  UtilFile:47 - Do you want to copy another file(y/n) : 
+2020-02-03 15:59:59 INFO  UtilFile:28 - Enter the Source Flie Path : 
+2020-02-03 16:00:02 INFO  UtilFile:34 - Enter the Target File Path : 
+2020-02-03 16:00:03 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 16:00:03 INFO  UtilFile:47 - Do you want to copy another file(y/n) : 
+2020-02-03 16:06:12 INFO  UtilFile:28 - Enter the Source Flie Path : 
+2020-02-03 16:06:16 ERROR UtilFile:32 - Source File Path is not entered.
+2020-02-03 16:06:16 INFO  UtilFile:34 - Enter the Target File Path : 
+2020-02-03 16:06:32 INFO  UtilFile:28 - Enter the Source Flie Path : 
+2020-02-03 16:06:34 ERROR UtilFile:32 - Source File Path is not entered.
+2020-02-03 16:06:34 INFO  UtilFile:34 - Enter the Target File Path : 
+2020-02-03 16:07:14 INFO  UtilFile:28 - Enter the Source Flie Path : 
+2020-02-03 16:07:16 ERROR UtilFile:32 - Source File Path is not entered.
+2020-02-03 16:07:16 INFO  UtilFile:28 - Enter the Source Flie Path : 
+2020-02-03 16:07:18 ERROR UtilFile:32 - Source File Path is not entered.
+2020-02-03 16:07:18 INFO  UtilFile:28 - Enter the Source Flie Path : 
+2020-02-03 16:07:19 ERROR UtilFile:32 - Source File Path is not entered.
+2020-02-03 16:07:19 INFO  UtilFile:28 - Enter the Source Flie Path : 
+2020-02-03 16:07:26 INFO  UtilFile:34 - Enter the Target File Path : 
+2020-02-03 16:07:28 ERROR UtilFile:38 - Target File Path is not entered.
+2020-02-03 16:07:28 INFO  UtilFile:28 - Enter the Source Flie Path : 
+2020-02-03 16:07:31 INFO  UtilFile:34 - Enter the Target File Path : 
+2020-02-03 16:07:32 ERROR Utils:34 - Please provide the proper path...!!
+2020-02-03 16:07:32 INFO  UtilFile:47 - Do you want to copy another file(y/n) : 
+2020-02-03 16:07:36 INFO  UtilFile:28 - Enter the Source Flie Path : 
+2020-02-03 16:16:44 INFO  Utils:19 - Directory Succussfully Copied..!!!!
+2020-02-03 16:16:44 ERROR Utils:26 - Please provide the proper path...!!
+2020-02-03 16:16:44 INFO  Utils:22 - File Succussfully Copied..!!!!
+2020-02-03 16:16:44 INFO  Utils:22 - File Succussfully Copied..!!!!
+2020-02-03 16:16:44 INFO  Utils:22 - File Succussfully Copied..!!!!
+2020-02-03 16:16:44 ERROR Utils:26 - Please provide the proper path...!!
+2020-02-03 16:16:44 ERROR Utils:26 - Please provide the proper path...!!
+2020-02-03 16:21:46 INFO  Utils:22 - Directory Succussfully Copied..!!!!
+2020-02-03 16:21:46 ERROR Utils:29 - Please provide the proper path...!!
+2020-02-03 16:21:46 INFO  Utils:25 - File Succussfully Copied..!!!!
+2020-02-03 16:21:46 INFO  Utils:25 - File Succussfully Copied..!!!!
+2020-02-03 16:21:46 INFO  Utils:25 - File Succussfully Copied..!!!!
+2020-02-03 16:21:46 ERROR Utils:29 - Please provide the proper path...!!
+2020-02-03 16:21:46 ERROR Utils:29 - Please provide the proper path...!!
+2020-02-03 16:27:12 ERROR Utils:29 - Please provide the proper path...!!
+2020-02-03 16:30:35 INFO  Utils:20 - Directory Succussfully Copied..!!!!
+2020-02-03 16:30:35 ERROR Utils:27 - Please provide the proper path...!!
+2020-02-03 16:30:35 INFO  Utils:23 - File Succussfully Copied..!!!!
+2020-02-03 16:30:35 INFO  Utils:23 - File Succussfully Copied..!!!!
+2020-02-03 16:30:35 INFO  Utils:23 - File Succussfully Copied..!!!!
+2020-02-03 16:30:35 ERROR Utils:27 - Please provide the proper path...!!
+2020-02-03 16:30:35 ERROR Utils:27 - Please provide the proper path...!!
+2020-02-03 16:31:20 INFO  Utils:20 - Directory Succussfully Copied..!!!!
+2020-02-03 16:31:20 ERROR Utils:27 - Please provide the proper path...!!
+2020-02-03 16:31:20 INFO  Utils:23 - File Succussfully Copied..!!!!
+2020-02-03 16:31:20 INFO  Utils:23 - File Succussfully Copied..!!!!
+2020-02-03 16:31:20 INFO  Utils:23 - File Succussfully Copied..!!!!
+2020-02-03 16:31:20 ERROR Utils:27 - Please provide the proper path...!!
+2020-02-03 16:31:20 ERROR Utils:27 - Please provide the proper path...!!
+2020-02-03 16:31:49 ERROR Utils:27 - Please provide the proper path...!!
+2020-02-03 16:32:26 INFO  UtilFile:25 - Enter the Source Flie Path : 
+2020-02-03 16:32:28 ERROR UtilFile:29 - Source File Path is not entered.
+2020-02-03 16:32:28 INFO  UtilFile:25 - Enter the Source Flie Path : 
+2020-02-03 16:32:30 ERROR UtilFile:29 - Source File Path is not entered.
+2020-02-03 16:32:30 INFO  UtilFile:25 - Enter the Source Flie Path : 
+2020-02-03 16:32:33 INFO  UtilFile:31 - Enter the Target File Path : 
+2020-02-03 16:32:33 ERROR UtilFile:35 - Target File Path is not entered.
+2020-02-03 16:32:33 INFO  UtilFile:25 - Enter the Source Flie Path : 
+2020-02-03 16:32:36 INFO  UtilFile:31 - Enter the Target File Path : 
+2020-02-03 16:32:37 ERROR Utils:27 - Please provide the proper path...!!
+2020-02-03 16:32:37 INFO  UtilFile:44 - Do you want to copy another file(y/n) : 
+2020-02-03 16:32:45 INFO  UtilFile:25 - Enter the Source Flie Path : 
+2020-02-03 16:32:47 INFO  UtilFile:31 - Enter the Target File Path : 
+2020-02-03 16:32:48 ERROR UtilFile:40 -  Source  and destination  are the same
+2020-02-03 16:32:48 INFO  UtilFile:25 - Enter the Source Flie Path : 
